@@ -1,0 +1,55 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  font-family: 'Oxygen', sans-serif;
+}
+
+h1{
+
+	color:black;
+}
+
+h1, h2 {
+	text-align: center;
+}
+
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+
+#header-nav {
+  background-color:#DEB887 ;
+  border-radius: 0px;
+  
+}
+
+#main_section{
+	background-color:#5F9EA0;
+}
+
+
+
+
+li {
+	text-align: center;
+	border: 1px solid black;
+
+}
+
+#collapsable-nav{
+	background-color: white, opacity: 1;
+
+}
+
+#collapsable-nav a{
+
+	font-size: 1.2em;
+	
+} 
+
+
+#nav-list{
+	background-color:#b2ad7f; 
+
+}
